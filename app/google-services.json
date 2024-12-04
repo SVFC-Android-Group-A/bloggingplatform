@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1069839682114",
+    "project_id": "groupabloggingplatform",
+    "storage_bucket": "groupabloggingplatform.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1069839682114:android:21ec1e51b62bffdb3b7bdb",
+        "android_client_info": {
+          "package_name": "com.example.bloggingplatformgroupa"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9SSCiD8ALvccTIJAtj_BdqNZ0mYNSNJE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
